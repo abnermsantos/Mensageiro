@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.edu.ifspsaocarlos.sdm.mensagem.view.ContatosActivity">
+    <!--item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" /-->
+    <!--item android:id="@+id/menu_overflow"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_overflow"
+        android:title="Overflow" >
+        <item android:id="@+id/menu_sair"
+            android:showAsAction="never"
+            android:icon="@drawable/ic_action_remove"
+            android:title="Sair" />
+    </item-->
+    <item
+        android:id="@+id/menu_item_share"
+        android:showAsAction="always"
+        android:title="Share"
+        android:actionProviderClass= "android.widget.ShareActionProvider"
+        tools:ignore="AppCompatResource" />
+</menu>

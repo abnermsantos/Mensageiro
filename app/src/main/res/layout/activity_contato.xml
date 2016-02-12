@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+    <TextView
+        android:id="@+id/tv_novo_contato"
+        android:drawableLeft="@drawable/ic_action_user_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Novo Contato ou Grupo"
+        android:textSize="25sp" >
+    </TextView>
+
+    <ListView
+        android:id="@android:id/android:list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

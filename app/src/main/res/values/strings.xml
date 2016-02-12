@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Bate Papo</string>
+    <string name="url_base">http://www.nobile.pro.br/sdm/mensageiro</string>
+    <string name="title_activity_main">Bate Papo</string>
+    <string name="texto_id">Insira seu ID</string>
+    <string name="texto_botao">Entrar</string>
+    <string name="texto_enviar">Enviar</string>
+    <string name="mensagens_atualizadas">Mensagens atualizadas!</string>
+    <string name="nova_mensagem_recebida">Nova Mensagem!</string>
+    <string name="nova_mensagem">Nova Mensagem</string>
+
+    <string name="destinatario">Destinatário</string>
+    <string name="remetente">Remetente</string>
+    <string name="remetente_hint">Digite o ID do remetente</string>
+    <string name="destinatatario_hint">Digite o ID do destinatário</string>
+    <string name="assunto">Assunto</string>
+    <string name="assunto_hint">Digite o assunto da mensagem</string>
+    <string name="mensagem">Mensagem</string>
+    <string name="mensagem_hint">Digite o texto da mensagem</string>
+    <string name="ultima_mensagem">Última mensagem lida</string>
+    <string name="ultima_mensagem_hint">Digite o ID da última mensagem</string>
+    <string name="ler">Ler</string>
+    <string name="clique_aqui">Clique aqui para visualizar</string>
+    <string name="title_activity_novo_contato">Novo Contato</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
